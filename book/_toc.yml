@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Python Basics
+    numbered: true
+    chapters:
+      - file: 01_python_variables
+      - file: 02_python_data_structures
+      - file: 03_python_function_class
+      - file: 04_python_control
+      - file: 05_python_file
